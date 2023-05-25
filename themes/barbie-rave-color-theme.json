@@ -8,7 +8,7 @@
 		"activityBarBadge.background": "#7efb8a",
 		"activityBarBadge.foreground": "#101018",
 		"activityBar.background":"#1a181f",
-		"activityBar.activeBorder": "#ff4f93",
+		"activityBar.activeBorder": "#ff6da5",
 		"sideBar.foreground": "#d06bff",
 		"sideBar.background": "#101018",
 		"sideBar.border": "#70ffac40",
@@ -152,7 +152,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#ff4f93",
+				"foreground": "#ff6da5",
 				"fontStyle": "italic bold"
 			}
 		},
@@ -375,7 +375,7 @@
 				"markup.deleted"
 			],
 			"settings": {
-				"foreground": "#ff4f93"
+				"foreground": "#ff6da5"
 			}
 		},
 		{
