@@ -8,7 +8,7 @@
 		"activityBarBadge.background": "#7efb8a",
 		"activityBarBadge.foreground": "#101018",
 		"activityBar.background":"#1a181f",
-		"activityBar.activeBorder": "#ff6da5",
+		"activityBar.activeBorder": "#b472fa",
 		"sideBar.foreground": "#d06bff",
 		"sideBar.background": "#101018",
 		"sideBar.border": "#70ffac40",
@@ -114,7 +114,7 @@
 				"storage.type.function.js",
 			],
 			"settings": {
-				"foreground": "#ffa880",
+				"foreground": "#b472fa",
 				"fontStyle": "italic bold"
 			}
 		},
