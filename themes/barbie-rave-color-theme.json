@@ -8,8 +8,8 @@
 		"activityBarBadge.background": "#53fe63",
 		"activityBarBadge.foreground": "#101018",
 		"activityBar.background":"#1a181f",
-		"activityBar.activeBorder": "#FF1996",
-		"sideBar.foreground": "#D14DFF",
+		"activityBar.activeBorder": "#fe439a",
+		"sideBar.foreground": "#d971ff",
 		"sideBar.background": "#101018",
 		"sideBar.border": "#70ffac40",
 		"editorGroup.border": "#652ec7",
@@ -20,7 +20,7 @@
 		"editor.wordHighlightBackground": "#33272920",
 		"statusBar.background": "#F78C6C20",
 		"terminal.border":"#52febe",
-		"terminal.ansiBlue": "#0A88FD",
+		"terminal.ansiBlue": "#13B8FF",
 		"terminal.ansiGreen": "#53fe63",
 		"terminal.ansiYellow": "#F9F940"
 	},
@@ -152,7 +152,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#FF1996",
+				"foreground": "#FA4B95",
 				"fontStyle": "italic bold"
 			}
 		},
@@ -188,7 +188,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#faae8b",
+				"foreground": "#53fe63",
 				"fontStyle": ""
 			}
 		},
@@ -299,7 +299,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#1C85FF"
+				"foreground": "#13B8FF"
 			}
 		},
 		{
@@ -312,7 +312,7 @@
 				"variable.function.constructor",
 			],
 			"settings": {
-				"foreground": "#51FFFA"
+				"foreground": "#53fe63"
 			}
 		},
 		{
@@ -356,7 +356,7 @@
 				"variable.other.property.js"
 			],
 			"settings": {
-				"foreground": "#1C85FF",
+				"foreground": "#13B8FF",
 				"fontStyle": ""
 			}
 		},
@@ -375,7 +375,7 @@
 				"markup.deleted"
 			],
 			"settings": {
-				"foreground": "#FF1996"
+				"foreground": "#FA4B95"
 			}
 		},
 		{
@@ -393,7 +393,7 @@
 				"string.regexp"
 			],
 			"settings": {
-				"foreground": "#1C85FF"
+				"foreground": "#13B8FF"
 			}
 		},
 		{
@@ -425,7 +425,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#1C85FF"
+				"foreground": "#13B8FF"
 			}
 		},
 		{
@@ -445,7 +445,7 @@
 				"punctuation.support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#1C85FF",
+				"foreground": "#2c97fa",
 				"fontStyle": ""
 			}
 		},
@@ -455,7 +455,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#1C85FF",
+				"foreground": "#f76c66",
 				"fontStyle": ""
 			}
 		},
@@ -465,7 +465,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#0A88FD",
+				"foreground": "#fe439a",
 				"fontStyle": ""
 			}
 		},
@@ -475,7 +475,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#1C85FF",
+				"foreground": "#4ae7ca",
 				"fontStyle": ""
 			}
 		},
@@ -485,7 +485,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#1C85FF",
+				"foreground": "#c8e500",
 				"fontStyle": ""
 			}
 		},
@@ -495,7 +495,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#1C85FF",
+				"foreground": "#51f99f",
 				"fontStyle": ""
 			}
 		},
