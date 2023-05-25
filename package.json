@@ -27,7 +27,7 @@
             {
                 "label": "barbie-rave",
                 "uiTheme": "vs-dark",
-                "path": "./themes/barbie-rave-theme.json"
+                "path": "./themes/barbie-rave-color-theme.json"
             }
         ]
     }
