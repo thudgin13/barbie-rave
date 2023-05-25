@@ -21,7 +21,7 @@
 		"statusBar.background": "#F78C6C20",
 		"terminal.border":"#52febe",
 		"terminal.ansiBlue": "#13B8FF",
-		"terminal.ansiGreen": "#53fe63",
+		"terminal.ansiGreen": "#7efb8a",
 		"terminal.ansiYellow": "#F9F940"
 	},
 	"tokenColors": [
@@ -87,7 +87,7 @@
 				"storage.type.js",
 			],
 			"settings": {
-				"foreground": "#fdad79",
+				"foreground": "#ffa7f8",
 				"fontStyle": "italic bold"
 			}
 		},
@@ -175,7 +175,7 @@
 				"punctuation.definition.string"
 			],
 			"settings": {
-				"foreground": "#53fe63"
+				"foreground": "#7efb8a"
 			}
 		},
 		{
@@ -188,7 +188,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#53fe63",
+				"foreground": "#7efb8a",
 				"fontStyle": ""
 			}
 		},
